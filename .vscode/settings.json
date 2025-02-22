@@ -1,0 +1,6 @@
+{
+    "json.schemas": [
+
+    ],
+    "java.showBuildStatusOnStart.enabled": "notification"
+}
